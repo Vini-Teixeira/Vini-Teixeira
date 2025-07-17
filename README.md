@@ -3,7 +3,7 @@
 **🔧 Tech stack:** Angular · NestJS · MongoDB · Flutter · Firebase
 
 📍 Aracaju, Brasil  
-📫 teixeiravinicius32@gmail.com · (https://www.linkedin.com/in/vinicius-teixeira-358937254/) · 
+📫 teixeiravinicius32@gmail.com · https://www.linkedin.com/in/vinicius-teixeira-358937254/ · 
 
 ---
 
